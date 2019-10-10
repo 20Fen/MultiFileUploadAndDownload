@@ -7,10 +7,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * Description:
- *
- * @author yangfl
- * @date 2019年10月09日 15:45
- * Version 1.0
  */
 @Aspect
 @Component

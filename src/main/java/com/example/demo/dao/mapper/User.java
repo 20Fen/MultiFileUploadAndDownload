@@ -8,10 +8,6 @@ import java.util.List;
 
 /**
  * @description mapper接口
- * @author Y
- * @Param [ null ]
- * @return
- * @date 2019/10/10 9:14
  */
 @Component
 @Mapper

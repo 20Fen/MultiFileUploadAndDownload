@@ -7,11 +7,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * Description:
- *
- * @author yangfl
- * @date 2019年10月09日 15:37
- * Version 1.0
+ * Description:mapper接口
  */
 @Mapper
 @Component

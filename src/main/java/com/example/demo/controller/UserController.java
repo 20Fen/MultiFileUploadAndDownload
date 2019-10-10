@@ -12,10 +12,6 @@ import java.util.List;
 
 /**
  * Description:
- *
- * @author yangfl
- * @date 2019年10月09日 15:46
- * Version 1.0
  */
 @RestController
 public class UserController {
